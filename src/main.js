@@ -6,7 +6,7 @@ import { loadFonts } from './plugins/webfontloader';
 import { createRouter, createWebHistory } from 'vue-router';
 
 // Importa los componentes para las rutas
-import articuloInicio from './components/ArticuloInicio';  // Asegúrate de que la ruta y el nombre sean correctos
+import articuloInicio from './components/ArticuloInicio';  
 import listArticulos from './components/ListArticulos';
 import crearArticulo from './components/CrearArticulo';
 import editarArticulo from './components/EditarArticulo';

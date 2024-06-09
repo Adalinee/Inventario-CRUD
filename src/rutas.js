@@ -1,7 +1,5 @@
-// src/router.js
 import { createRouter, createWebHistory } from 'vue-router';
 
-// Importa los componentes que vas a usar en las rutas
 import articuloInicio from './components/ArticuloInicio';
 import listArticulos from './components/ListArticulos';
 import crearArticulo from './components/CrearArticulo';
